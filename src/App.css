@@ -1,7 +1,9 @@
 .App {
   text-align: center;
 }
-
+.btn-brand{
+  background: #111430;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -12,6 +14,7 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+/* body{width: 1230px;} */
 
 .App-header {
   background-color: #282c34;

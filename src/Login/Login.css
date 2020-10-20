@@ -1,0 +1,26 @@
+.image1{width: 250px;margin-left: 500px;margin-top: 70px;}
+.signinBox{
+    width: 570px;
+height: 457px;
+margin-top: 70px;
+margin-left: 350px;
+background: #FFFFFF;
+border: 1px solid #ABABAB;
+box-sizing: border-box;
+border-radius: 4px;
+}
+.beneathBox{
+    width: 457px;
+height: 148px;
+margin-left: 230px;
+margin-top: 125px;
+}
+.Buttuon{width: 457px;
+    height: 51px;
+   margin-left: -160px;
+
+    
+    background: #FFFFFF;
+    border: 1px solid #C7C7C7;
+    box-sizing: border-box;
+    border-radius: 57px;}

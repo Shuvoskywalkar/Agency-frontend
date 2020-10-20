@@ -1,0 +1,6 @@
+
+.sideText:hover{
+    color: #009444;
+    transform: translate(5px);
+}
+.sidebar{height: 890px;width: 230px}

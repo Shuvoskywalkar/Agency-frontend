@@ -1,0 +1,9 @@
+.BrandImage img{
+    /* position: absolute; */
+    width: 140px;
+height: 66px;
+margin-top: 15px;
+margin-left:85px;
+/* margin-bottom: -15px; */
+}
+.brandContainer{width: 175px;height: 250px;}
